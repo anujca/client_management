@@ -123,11 +123,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## **Contact**
-
-For any questions or feedback, please reach out to:
-
-- **Name**: Parv (Assuming this matches your identity)
-- **Email**: parv@gmail.com
-
 Feel free to fork this repository, open issues, or contribute!
