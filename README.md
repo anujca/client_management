@@ -1,5 +1,3 @@
----
-
 # **Client Management System**
 
 This is a simple Client Management System built using **Flask**, **SQLite**, **HTML**, **CSS**, and **JavaScript**. The system allows users to:
